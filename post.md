@@ -5,7 +5,7 @@
 Hey everyone! 👋
 This is my submission for the DEV Weekend Challenge!
 
-🔗 Live Project: [Circula](https://circula.vercel.app/)
+🔗 Live Project: [Circula](https://circula-community.vercel.app/)
 📦 Source Code: [GitHub Repository](https://github.com/wesleybertipaglia/circula)
 
 > **Note**: This project uses mock data and LocalStorage for testing purposes.

@@ -43,7 +43,7 @@ In every neighborhood, people have items they no longer need but others could us
 
 ## 🚀 Demo
 
-Live demo available at: [circula.vercel.app](https://circula.vercel.app/)
+Live demo available at: [circula-community.vercel.app](https://circula-community.vercel.app/)
 
 > **Note**: This project currently uses mock data and LocalStorage as a temporary repository for testing purposes. A real backend can be integrated in the future.
 
