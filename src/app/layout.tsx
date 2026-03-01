@@ -7,6 +7,9 @@ import { AuthProvider } from '@/context/AuthContext';
 export const metadata: Metadata = {
   title: 'Circula',
   description: 'A local mini-economy platform to donate, exchange, and borrow items.',
+  icons: {
+    icon: '/favicon.webp',
+  },
 };
 
 export default function RootLayout({
